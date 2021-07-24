@@ -1,36 +1,34 @@
 {
   "files": {
-    "main.css": "/introduction/static/css/main.9c027f0b.chunk.css",
-    "main.js": "/introduction/static/js/main.94f30363.chunk.js",
-    "main.js.map": "/introduction/static/js/main.94f30363.chunk.js.map",
+    "main.css": "/introduction/static/css/main.c4dfb984.chunk.css",
+    "main.js": "/introduction/static/js/main.3b83c99e.chunk.js",
+    "main.js.map": "/introduction/static/js/main.3b83c99e.chunk.js.map",
     "runtime-main.js": "/introduction/static/js/runtime-main.59f25823.js",
     "runtime-main.js.map": "/introduction/static/js/runtime-main.59f25823.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/introduction/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.69b16888.chunk.js": "/introduction/static/js/2.69b16888.chunk.js",
-    "static/js/2.69b16888.chunk.js.map": "/introduction/static/js/2.69b16888.chunk.js.map",
+    "static/js/2.b14c85f6.chunk.js": "/introduction/static/js/2.b14c85f6.chunk.js",
+    "static/js/2.b14c85f6.chunk.js.map": "/introduction/static/js/2.b14c85f6.chunk.js.map",
     "static/js/3.eae24763.chunk.js": "/introduction/static/js/3.eae24763.chunk.js",
     "static/js/3.eae24763.chunk.js.map": "/introduction/static/js/3.eae24763.chunk.js.map",
     "index.html": "/introduction/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/introduction/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.9c027f0b.chunk.css.map": "/introduction/static/css/main.9c027f0b.chunk.css.map",
-    "static/js/2.69b16888.chunk.js.LICENSE.txt": "/introduction/static/js/2.69b16888.chunk.js.LICENSE.txt",
-    "static/media/Soumyajit-Behera.dc4c8363.pdf": "/introduction/static/media/Soumyajit-Behera.dc4c8363.pdf",
+    "static/css/main.c4dfb984.chunk.css.map": "/introduction/static/css/main.c4dfb984.chunk.css.map",
+    "static/js/2.b14c85f6.chunk.js.LICENSE.txt": "/introduction/static/js/2.b14c85f6.chunk.js.LICENSE.txt",
+    "static/media/Capture.a08561e2.PNG": "/introduction/static/media/Capture.a08561e2.PNG",
+    "static/media/Capture1.ee610e90.PNG": "/introduction/static/media/Capture1.ee610e90.PNG",
+    "static/media/Trishna_Kalita.2280f9ed.pdf": "/introduction/static/media/Trishna_Kalita.2280f9ed.pdf",
     "static/media/about.aee0f771.png": "/introduction/static/media/about.aee0f771.png",
-    "static/media/avatar.5852f40f.svg": "/introduction/static/media/avatar.5852f40f.svg",
-    "static/media/blog.52102140.png": "/introduction/static/media/blog.52102140.png",
-    "static/media/chatify.9373edda.png": "/introduction/static/media/chatify.9373edda.png",
-    "static/media/codeEditor.ba945879.png": "/introduction/static/media/codeEditor.ba945879.png",
-    "static/media/emotion.e92e314a.jpeg": "/introduction/static/media/emotion.e92e314a.jpeg",
-    "static/media/style.css": "/introduction/static/media/pre.d4812f51.svg",
     "static/media/home-main.541f8179.svg": "/introduction/static/media/home-main.541f8179.svg",
-    "static/media/leaf.4c15d6eb.png": "/introduction/static/media/leaf.4c15d6eb.png",
-    "static/media/suicide.b72f1f9f.png": "/introduction/static/media/suicide.b72f1f9f.png"
+    "static/media/immage.a35041c2.PNG": "/introduction/static/media/immage.a35041c2.PNG",
+    "static/media/style.css": "/introduction/static/media/pre.d4812f51.svg",
+    "static/media/sample.92901cac.jpeg": "/introduction/static/media/sample.92901cac.jpeg",
+    "static/media/sample1.cf57f710.png": "/introduction/static/media/sample1.cf57f710.png"
   },
   "entrypoints": [
     "static/js/runtime-main.59f25823.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.69b16888.chunk.js",
-    "static/css/main.9c027f0b.chunk.css",
-    "static/js/main.94f30363.chunk.js"
+    "static/js/2.b14c85f6.chunk.js",
+    "static/css/main.c4dfb984.chunk.css",
+    "static/js/main.3b83c99e.chunk.js"
   ]
 }
